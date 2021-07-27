@@ -1,5 +1,5 @@
 ## Todo list
 
-Made with javascript
+A todo list made with Javascript.
 
-[Link](https://vincentwings.github.io/todolist/)
+[Link to the project](https://vincentwings.github.io/todolist/)
